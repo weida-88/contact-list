@@ -3,31 +3,21 @@
 Aplikasi ini adalah aplikasi manajemen kontak sederhana yang dibuat dengan arsitektur MVC (Model-View-Controller) menggunakan PHP. Aplikasi ini memungkinkan pengguna untuk melihat daftar kontak, menambah kontak baru, mengedit kontak yang sudah ada, dan menghapus kontak.
 
 ## Struktur Direktori
+```
 .
-
 ├── config/
-│
 │ └── Database.php
-│
 ├── controllers/
-│
 │ └── ContactController.php
-│
 ├── models/
-│
 │ └── Contact.php
-│
 ├── views/
-│
 │ └── contacts/
-│
 │ ├── index.php
-│
 │ ├── create.php
-│
 │ └── edit.php
-│
 └── index.php
+```
 
 
 
@@ -187,7 +177,7 @@ Berikut adalah Entity-Relationship Diagram (ERD) untuk struktur database aplikas
 |    | phone         |
 |    | address       |
 +--------------------+
-````
+```
 
 ## Refleksi Diri
 Berbagai tantangan saya hadapi ketik membangun project dengan MVC, tapi dengan komitmen yang baik saya dapat menyelesaikan projek saya. Untuk kedepannya saya perlu banyak belajar lagi, untungnya ada beberapa referensi yang membantu saya contohnya channel youtubenya Web Programming Unpas!
