@@ -4,17 +4,25 @@ Aplikasi ini adalah aplikasi manajemen kontak sederhana yang dibuat dengan arsit
 
 ## Struktur Direktori
 .
+
 ├── config/
+
 │ └── Database.php
+
 ├── controllers/
+
 │ └── ContactController.php
+
 ├── models/
+
 │ └── Contact.php
+
 ├── views/
 │ └── contacts/
 │ ├── index.php
 │ ├── create.php
 │ └── edit.php
+
 └── index.php
 
 
